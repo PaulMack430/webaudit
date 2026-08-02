@@ -1,0 +1,16 @@
+# Core
+flask>=3.0.0
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+
+# Fuzzy matching — uses built-in difflib, no install needed
+
+# Headless browser (Phase 2 — install when ready)
+# playwright>=1.40.0
+# After install run: playwright install chromium
+
+# Anthropic SDK (Phase 3 — install when ready)
+# anthropic>=0.20.0
+
+# Scheduling (Phase 2+)
+apscheduler>=3.10.0
